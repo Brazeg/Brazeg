@@ -40,5 +40,4 @@
 
 <h3>🎉 Commits </h3> 
 <div align="center"> 
-        <img width="45%" alt="🦑" src="https://github.com/[YourUsername]/[YourUsername]/blob/output/github-contribution-grid-snake-dark.svg" align="left"/>
-</p>
+

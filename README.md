@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+my+name+is+[Your+Name]!" alt="Typing SVG" />
+</h2>
 
-<!--
-**Brazeg/Brazeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
+<div style="display: inline_block"  >
+<img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"  width="300"/>
+  
+<p> - 👨‍💻 Systems Analyst at [Your Company]. </p>
+<p> - 👨‍🎓 [Your Degree or Education]</p>
+<p> - 🎯 Interests: [Your Interests] </p>
+<p> - 🦊 [Your Hobbies or Extra Info]</p>
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 My Data and Hobbies <br>
+ 
+<div style="display: flex; justify-content: space-between;">
+    <div style="display: flex;">
+        <img width="45%" alt="🦑" src="./general.svg">
+        <img width="45%" alt="🦑" src="./media.svg" align="right"/>
+    </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📱 Contact Me</h3> 
+
+<p align="center">
+  <a href="https://instagram.com/[Your Instagram]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=[Your Phone]&text=." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+ target="_blank"></a>
+  <br>
+  <a href = "mailto:[Your Email]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/[Your LinkedIn]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+<h3>🔍 Profile visit count </h3> <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/[YourUsername]/count.svg" />
+ </p>
+
+
+<h3>🎉 Commits </h3> 
+<div align="center"> 
+        <img width="45%" alt="🦑" src="https://github.com/[YourUsername]/[YourUsername]/blob/output/github-contribution-grid-snake-dark.svg" align="left"/>
+</p>

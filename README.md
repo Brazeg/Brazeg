@@ -21,8 +21,7 @@
  <a href="https://api.whatsapp.com/send?phone=[Your Phone]&text=." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
  target="_blank"></a>
   <br>
-  <a href = "mailto:[ibrahimbahlawan95@gmail.com]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/ibrahimbahlawan/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+World!+Welcome+to+my+Github!!!]!" alt="Typing SVG" />  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/ibrahimbahlawan/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 <h3>🔍 Profile visit count </h3> <br>

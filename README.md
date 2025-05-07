@@ -1,15 +1,15 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+my+name+is+[Your+Name]!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+World!+Welcome+to+my+Github]!" alt="Typing SVG" />
 </h2>
 
 ### 👋 About Me
 <div style="display: inline_block"  >
 <img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"  width="300"/>
   
-<p> - 👨‍💻 Systems Analyst at [Your Company]. </p>
-<p> - 👨‍🎓 [Your Degree or Education]</p>
-<p> - 🎯 Interests: [Your Interests] </p>
-<p> - 🦊 [Your Hobbies or Extra Info]</p>
+<p> - 👨‍💻 DevOps Engineer at [Your Company]. </p>
+<p> - 👨‍🎓 Master of Engineering </p>
+<p> - 🎯 Interests: DevOps, Cloud, AI, IoT </p>
+<p> - 🦊 I love music, sports and gaming </p>
   
 </div>
 

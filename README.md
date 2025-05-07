@@ -14,13 +14,6 @@
 
 ## 🚀 My Data and Hobbies <br>
  
-<div style="display: flex; justify-content: space-between;">
-    <div style="display: flex;">
-        <img width="45%" alt="🦑" src="./general.svg">
-        <img width="45%" alt="🦑" src="./media.svg" align="right"/>
-    </div>
-</div>
-
 <h3>📱 Contact Me</h3> 
 
 <p align="center">

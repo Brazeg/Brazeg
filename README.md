@@ -34,7 +34,7 @@
 
 <h3>🔍 Profile visit count </h3> <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/[YourUsername]/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Brazeg/count.svg" />
  </p>
 
 

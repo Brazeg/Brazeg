@@ -5,7 +5,7 @@
 ### 👋 About Me
 <div style="display: inline_block"  >
   
-<p> - 👨‍💻 DevOps Engineer at [Your Company]. </p>
+<p> - 👨‍💻 DevOps Engineer at Pulsation GmbH. </p>
 <p> - 👨‍🎓 Master of Engineering </p>
 <p> - 🎯 Interests: DevOps, Cloud, AI, IoT </p>
 <p> - 🦊 I love music, sports and gaming </p>

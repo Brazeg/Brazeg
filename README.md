@@ -4,7 +4,6 @@
 
 ### 👋 About Me
 <div style="display: inline_block"  >
-<img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"  width="300"/>
   
 <p> - 👨‍💻 DevOps Engineer at [Your Company]. </p>
 <p> - 👨‍🎓 Master of Engineering </p>

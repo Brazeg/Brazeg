@@ -1,5 +1,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&lines=Hello%2C+World!+Welcome+to+my+Github !!!!!!!!!!!!!]!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&lines=Hello%2C+World!" alt="Typing SVG" />
 </h2>
 
 ### 👋 About Me

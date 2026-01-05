@@ -81,7 +81,7 @@ interests: [DevOps, Cloud Architecture, IoT, AI Integration]
 ---
 
 <p align="center">
-  <i> "To be or not to be 💡"</i>
+  <i> "Study the past and present to anticipate the future 💡"</i>
 </p>
 
 <p align="center">

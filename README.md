@@ -44,12 +44,7 @@ interests: [DevOps, Cloud Architecture, IoT, AI Integration]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brazeg&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=FF5722&icon_color=FF5722&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brazeg&theme=radical&hide_border=true&background=1F222E&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brazeg&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=FF5722&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ## 💼 Professional Highlights

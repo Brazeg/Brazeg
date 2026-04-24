@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-role: System & DevOps Engineer @ Pulsation GmbH
+role: System & DevOps Engineer
 education: M.Eng. in ICT - HTW Berlin (Grade 1.9)
 certification: Microsoft Certified Azure Administrator (AZ-104)
 experience: 3+ years in Cloud & DevOps

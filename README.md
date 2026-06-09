@@ -85,9 +85,6 @@ profile:
 ## 📈 GitHub Metrics & Activity
 
 <div align="center">
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Brazeg&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brazeg&theme=react&show_icons=true&hide_border=true&bg_color=1F222E&title_color=0070AD&icon_color=0070AD&text_color=ffffff" height="170px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brazeg&theme=react&hide_border=true&background=1F222E&ring=0070AD&fire=0070AD&currStreakLabel=0070AD" height="170px" alt="GitHub Streak" />
   <br/>

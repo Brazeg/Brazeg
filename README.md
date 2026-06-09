@@ -38,9 +38,18 @@ profile:
 
 ### 🏭 Industry Expertise
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65678d7b-c20f-4aaf-a788-b00129172bc3" width="16%" title="Sensorik" />&nbsp;<img src="https://github.com/user-attachments/assets/10f21b25-f1b1-4e01-b84e-f8931a6a5e09" width="16%" title="Metal Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/ba133565-c28f-4dc8-9fed-c1d8d90eb384" width="16%" title="IT Consulting" />&nbsp;<img src="https://github.com/user-attachments/assets/e2a11ccb-21b9-411f-be79-6ff503bd5a4f" width="16%" title="Automotive Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/fd101f33-b175-4b37-a84d-00791c0289ff" width="16%" title="Datacenter Automation" />&nbsp;<img src="https://github.com/user-attachments/assets/2e63ccb8-3d17-41e3-8394-03afaddb69c1" width="16%" title="Emergency Services Software" />
-</p>
+<div align="center">
+  <table>
+    <tr align="center">
+      <td><img src="https://github.com/user-attachments/assets/65678d7b-c20f-4aaf-a788-b00129172bc3" width="100%" alt="Sensorik" /><br/><sub><b>Sensorik</b></sub></td>
+      <td><img src="https://github.com/user-attachments/assets/10f21b25-f1b1-4e01-b84e-f8931a6a5e09" width="100%" alt="Metal Industry" /><br/><sub><b>Metal Industry</b></sub></td>
+      <td><img src="https://github.com/user-attachments/assets/ba133565-c28f-4dc8-9fed-c1d8d90eb384" width="100%" alt="IT Consulting" /><br/><sub><b>IT Consulting</b></sub></td>
+      <td><img src="https://github.com/user-attachments/assets/e2a11ccb-21b9-411f-be79-6ff503bd5a4f" width="100%" alt="Automotive Industry" /><br/><sub><b>Automotive</b></sub></td>
+      <td><img src="https://github.com/user-attachments/assets/fd101f33-b175-4b37-a84d-00791c0289ff" width="100%" alt="Datacenter Automation" /><br/><sub><b>Datacenter</b></sub></td>
+      <td><img src="https://github.com/user-attachments/assets/2e63ccb8-3d17-41e3-8394-03afaddb69c1" width="100%" alt="Emergency Services Software" /><br/><sub><b>Emergency Services</b></sub></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -115,5 +124,3 @@ profile:
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070AD&height=100&section=footer"/>
 </div>
-
-

@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0070AD&height=150&section=header&text=Hello%20World!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Infrastructure+Automation+%7C+Security;Building+Resilient+Cloud+Architectures;Automating+Everything...+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=800&lines=System+%26+DevOps+Engineer;Azure+%7C+Infrastructure+Automation+%7C+Security;Building+Resilient+Cloud+Architectures;Automating+Everything...+" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@ profile:
   role: System & DevOps Engineer
   education: M.Eng. in ICT - HTW Berlin (Grade 1.9)
   certification: Microsoft Certified Azure Administrator (AZ-104)
-  experience: 5+ years in Cloud & DevOps
+  experience: 3+ years in Cloud & DevOps
   scale: 
     - Managed 5000+ resources & 3000+ users
     - Supported 200+ customers in emergency services
@@ -72,10 +72,13 @@ profile:
 ## 📈 GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brazeg&theme=react&show_icons=true&hide_border=true&bg_color=1F222E&title_color=0070AD&icon_color=0070AD&text_color=ffffff" height="170px" alt="GitHub Stats" />
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Brazeg&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brazeg&theme=react&show_icons=true&hide_border=true&bg_color=1F222E&title_color=0070AD&icon_color=0070AD&text_color=ffffff" height="170px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brazeg&theme=react&hide_border=true&background=1F222E&ring=0070AD&fire=0070AD&currStreakLabel=0070AD" height="170px" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brazeg&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=0070AD&text_color=ffffff" height="170px" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brazeg&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=0070AD&text_color=ffffff" height="170px" alt="Top Languages" />
   <br/><br/>
   <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brazeg&bg_color=1F222E&color=0070AD&line=0070AD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />

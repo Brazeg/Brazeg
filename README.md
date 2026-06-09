@@ -24,7 +24,7 @@ profile:
   role: System & DevOps Engineer
   education: M.Eng. in ICT - HTW Berlin (Grade 1.9)
   certification: Microsoft Certified Azure Administrator (AZ-104)
-  experience: 3+ years in Cloud & DevOps
+  experience: 5+ years in Cloud & DevOps
   scale: 
     - Managed 5000+ resources & 3000+ users
     - Supported 200+ customers in emergency services

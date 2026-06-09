@@ -39,7 +39,7 @@ profile:
 ### 🏭 Industry Expertise
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/sensorik_sector_1781016782707.png" width="16%" title="Sensorik" />&nbsp;<img src="https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/metal_industry_1781016794140.png" width="16%" title="Metal Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/it_consulting_1781016805531.png" width="16%" title="IT Consulting" />&nbsp;<img src="https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/automotive_industry_1781016818481.png" width="16%" title="Automotive Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/datacenter_automation_v2_1781017014005.png" width="16%" title="Datacenter Automation" />&nbsp;<img src="file:///https://github.com/user-attachments/assets/be83ddea-1c7c-45c4-8478-6e41d246701d/emergency_ambulance_1781017002438.png" width="16%" title="Emergency Services Software" />
+  <img src="https://github.com/user-attachments/assets/65678d7b-c20f-4aaf-a788-b00129172bc3" width="16%" title="Sensorik" />&nbsp;<img src="https://github.com/user-attachments/assets/10f21b25-f1b1-4e01-b84e-f8931a6a5e09" width="16%" title="Metal Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/ba133565-c28f-4dc8-9fed-c1d8d90eb384" width="16%" title="IT Consulting" />&nbsp;<img src="https://github.com/user-attachments/assets/e2a11ccb-21b9-411f-be79-6ff503bd5a4f" width="16%" title="Automotive Industry" />&nbsp;<img src="https://github.com/user-attachments/assets/fd101f33-b175-4b37-a84d-00791c0289ff" width="16%" title="Datacenter Automation" />&nbsp;<img src="https://github.com/user-attachments/assets/2e63ccb8-3d17-41e3-8394-03afaddb69c1" width="16%" title="Emergency Services Software" />
 </p>
 
 <br/>
@@ -115,3 +115,11 @@ profile:
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070AD&height=100&section=footer"/>
 </div>
+
+
+
+<img width="1024" height="1024" alt="automotive_industry_1781016818481" src="https://github.com/user-attachments/assets/e2a11ccb-21b9-411f-be79-6ff503bd5a4f" />
+<img width="1024" height="1024" alt="datacenter_automation_v2_1781017014005" src="<img width="1024" height="1024" alt="it_consulting_1781016805531" src="https://github.com/user-attachments/assets/ba133565-c28f-4dc8-9fed-c1d8d90eb384" />://github.com/user-attachments/assets/fd101f33-b175-4b37-a84d-00791c0289ff" />
+<img width="1024" height="1024" alt="emergency_ambulance_1781017002438" src="https://github.com/user-attachments/assets/2e63ccb8-3d17-41e3-8394-03afaddb69c1" />
+<img width="1024" height="1024" alt="sensorik_sector_1781016782707" src="https://github.com/user-attachments/assets/65678d7b-c20f-4aaf-a788-b00129172bc3" />
+<img width="1024" height="1024" alt="metal_industry_1781016794140" src="https://github.com/user-attachments/assets/10f21b25-f1b1-4e01-b84e-f8931a6a5e09" />

@@ -28,15 +28,24 @@ profile:
   scale: 
     - Managed 5000+ resources & 3000+ users
     - Supported 200+ customers in emergency services
-  industries: 
-    - Sensorik & Metal Industries
-    - IT Consulting & Automotive
-    - Datacenter Automation & Emergency Services Software
   interests: 
     - Generative AI & Automation Tools
     - Claude Code, MS Copilot, Microsoft Foundry
     - OpenAI API, OpenCode, Google Antigravity
 ```
+
+<br/>
+
+### 🏭 Industry Expertise
+
+<div align="center">
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/sensorik_sector_1781016782707.png" width="15.5%" title="Sensorik" style="border-radius: 8px; margin: 0 2px;" />
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/metal_industry_1781016794140.png" width="15.5%" title="Metal Industry" style="border-radius: 8px; margin: 0 2px;" />
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/it_consulting_1781016805531.png" width="15.5%" title="IT Consulting" style="border-radius: 8px; margin: 0 2px;" />
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/automotive_industry_1781016818481.png" width="15.5%" title="Automotive Industry" style="border-radius: 8px; margin: 0 2px;" />
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/datacenter_automation_v2_1781017014005.png" width="15.5%" title="Datacenter Automation" style="border-radius: 8px; margin: 0 2px;" />
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/emergency_ambulance_1781017002438.png" width="15.5%" title="Emergency Services Software" style="border-radius: 8px; margin: 0 2px;" />
+</div>
 
 <br/>
 

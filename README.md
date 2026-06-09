@@ -4,11 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0070AD&height=150&section=header&text=Hello%20World!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<img width="1024" height="1024" alt="it_consulting_1781016805531" src="https://github.com/user-attachments/assets/4712209a-5e28-4336-ba2f-3cf67094fd44" /><img width="1024" height="1024" alt="automotive_industry_1781016818481" src="https://github.com/user-attachments/assets/d289675d-8ea5-4f7a-9743-83a09f0145ce" />
-<img width="1024" height="1024" alt="datacenter_automation_v2_1781017014005" src="https://github.com/user-attachments/assets/59a4bab7-bd3c-4771-b09e-0273e8105ff8" />
-<img width="1024" height="1024" alt="emergency_ambulance_1781017002438" src="https://github.com/user-attachments/assets/9f0fea09-f404-4631-8997-17535a809593" />
-<img width="1024" height="1024" alt="sensorik_sector_1781016782707" src="https://github.com/user-attachments/assets/7329bb94-6a5f-44a0-ad96-95c07f0f8f7e" />
-<img width="1024" height="1024" alt="metal_industry_1781016794140" src="https://github.com/user-attachments/assets/76a86e52-a56f-45e1-8c9a-ede18df4bac6" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0070AD&center=true&vCenter=true&width=800&lines=System+%26+DevOps+Engineer;Azure+%7C+Infrastructure+Automation+%7C+Security;Building+Resilient+Cloud+Architectures;Automating+Everything...+" alt="Typing SVG" />
 
 <br/>
 
@@ -42,14 +38,9 @@ profile:
 
 ### 🏭 Industry Expertise
 
-<div align="center">
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/sensorik_sector_1781016782707.png" width="15.5%" title="Sensorik" style="border-radius: 8px; margin: 0 2px;" />
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/metal_industry_1781016794140.png" width="15.5%" title="Metal Industry" style="border-radius: 8px; margin: 0 2px;" />
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/it_consulting_1781016805531.png" width="15.5%" title="IT Consulting" style="border-radius: 8px; margin: 0 2px;" />
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/automotive_industry_1781016818481.png" width="15.5%" title="Automotive Industry" style="border-radius: 8px; margin: 0 2px;" />
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/datacenter_automation_v2_1781017014005.png" width="15.5%" title="Datacenter Automation" style="border-radius: 8px; margin: 0 2px;" />
-  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/emergency_ambulance_1781017002438.png" width="15.5%" title="Emergency Services Software" style="border-radius: 8px; margin: 0 2px;" />
-</div>
+<p align="center">
+  <img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/sensorik_sector_1781016782707.png" width="16%" title="Sensorik" />&nbsp;<img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/metal_industry_1781016794140.png" width="16%" title="Metal Industry" />&nbsp;<img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/it_consulting_1781016805531.png" width="16%" title="IT Consulting" />&nbsp;<img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/automotive_industry_1781016818481.png" width="16%" title="Automotive Industry" />&nbsp;<img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/datacenter_automation_v2_1781017014005.png" width="16%" title="Datacenter Automation" />&nbsp;<img src="file:///C:/Users/IB/.gemini/antigravity/brain/be83ddea-1c7c-45c4-8478-6e41d246701d/emergency_ambulance_1781017002438.png" width="16%" title="Emergency Services Software" />
+</p>
 
 <br/>
 

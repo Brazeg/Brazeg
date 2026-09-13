@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E85D04?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimbahlawan/)
 [![GitHub](https://img.shields.io/badge/GitHub-9D0208?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brazeg)
-[![README cards](https://github.com/Brazeg/Brazeg/actions/workflows/readme-cards.yml/badge.svg)](https://github.com/Brazeg/Brazeg/actions/workflows/readme-cards.yml)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D0208,50:E85D04,100:FFBA08&height=3&section=header" width="100%"/>
 

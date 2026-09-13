@@ -39,6 +39,25 @@ profile:
 
 <br/>
 
+### 🎖️ Certifications
+
+<div align="center">
+
+<!--
+  Replace the "#" links with your verification URLs so recruiters can click through:
+  - AZ-104: Credly > your badge > Share > "Link to badge", or your Microsoft Learn
+    transcript share link (learn.microsoft.com > Profile > Certifications > Share).
+  - Terraform: Credly > your badge > Share > "Link to badge".
+  Until then the badges are decorative only.
+-->
+
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-E85D04?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=9D0208)](#)
+[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-E85D04?style=for-the-badge&logo=terraform&logoColor=white&labelColor=9D0208)](#)
+
+</div>
+
+<br/>
+
 ### 🏭 Industry Expertise
 
 <div align="center">

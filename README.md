@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-A **System & DevOps Engineer** specializing in Azure cloud environments, driven by a passion for **Infrastructure as Code**, **CI/CD automation**, and designing scalable system architectures. I thrive on building resilient, secure infrastructure and automating the mundane.
+A **System & DevOps Engineer** specializing in Azure cloud environments, driven by a passion for **Infrastructure as Code**, **CI/CD automation**, and designing scalable system architectures. I thrive on building resilient, secure infrastructure and automating processes.
 
 ```yaml
 profile:

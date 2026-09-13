@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving header — WarGreymon palette: crimson -> flame orange gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D0208,50:E85D04,100:FFBA08&height=150&section=header&text=Hello%20World!%20🔥&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D0208,50:E85D04,100:FFBA08&height=150&section=header&text=Hello%20World!%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG — domain updated: herokuapp.com -> demolab.com -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=E85D04&center=true&vCenter=true&width=800&lines=System+%26+DevOps+Engineer;Azure+%7C+Infrastructure+Automation+%7C+Security;Building+Resilient+Cloud+Architectures;Automating+Everything...+" alt="Typing SVG" />

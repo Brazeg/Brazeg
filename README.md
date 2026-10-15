@@ -26,7 +26,7 @@ profile:
   certifications:
     - Microsoft Certified: Azure Administrator (AZ-104)
     - HashiCorp Certified: Terraform Associate
-  experience: 3+ years in Cloud & DevOps   # <-- verify this number before publishing
+  experience: 3+ years in Cloud & DevOps
   scale:
     - Managed 5000+ resources & 3000+ users
     - Supported 200+ customers in emergency services
